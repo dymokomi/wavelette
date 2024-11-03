@@ -1,2 +1,2 @@
 # wavelette
-Large images to annoy 
+Very large images, just to annoy 
